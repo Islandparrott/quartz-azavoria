@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Test place
+draft: false
 ---
-
 Quartz 4
 
     Authoring Content
