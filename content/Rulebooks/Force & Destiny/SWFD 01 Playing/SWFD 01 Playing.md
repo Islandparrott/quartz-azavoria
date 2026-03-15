@@ -5,7 +5,7 @@ roll when performing actions that require skill or lots of luck
 GM decides which dice to roll based on conditions:
 	+ ample time, Proper Tools
 	- in rain, without tools, under blaster fire
-# 17 ![[SWFD Dice]]
+# 17 [[SWFD Dice]]
 
 ---
 ---

@@ -1,0 +1,148 @@
+{
+  "name": "Great ReSync",
+  "id": "GRS",
+  "description": "The GRS calendar begins 35BBY.",
+  "years": {
+    "yearZero": 0,
+    "firstWeekday": 0
+  },
+  "months": {
+    "values": [
+      {
+        "name": "Janona",
+        "abbreviation": "Jan",
+        "ordinal": 1,
+        "days": 30
+      },
+      {
+        "name": "Febona",
+        "abbreviation": "Feb",
+        "ordinal": 2,
+        "days": 30
+      },
+      {
+        "name": "Marona",
+        "abbreviation": "CALENDAR.GREGORIAN.MarchAbbr",
+        "ordinal": 3,
+        "days": 30
+      },
+      {
+        "name": "Aprona",
+        "abbreviation": "CALENDAR.GREGORIAN.AprilAbbr",
+        "ordinal": 4,
+        "days": 30
+      },
+      {
+        "name": "Mayona",
+        "abbreviation": "CALENDAR.GREGORIAN.MayAbbr",
+        "ordinal": 5,
+        "days": 30
+      },
+      {
+        "name": "Junona",
+        "abbreviation": "CALENDAR.GREGORIAN.JuneAbbr",
+        "ordinal": 6,
+        "days": 30
+      },
+      {
+        "name": "Julona",
+        "abbreviation": "CALENDAR.GREGORIAN.JulyAbbr",
+        "ordinal": 7,
+        "days": 30
+      },
+      {
+        "name": "Augona",
+        "abbreviation": "CALENDAR.GREGORIAN.AugustAbbr",
+        "ordinal": 8,
+        "days": 30
+      },
+      {
+        "name": "Septona",
+        "abbreviation": "CALENDAR.GREGORIAN.SeptemberAbbr",
+        "ordinal": 9,
+        "days": 30
+      },
+      {
+        "name": "Octona",
+        "abbreviation": "CALENDAR.GREGORIAN.OctoberAbbr",
+        "ordinal": 10,
+        "days": 30
+      },
+      {
+        "name": "Novona",
+        "abbreviation": "CALENDAR.GREGORIAN.NovemberAbbr",
+        "ordinal": 11,
+        "days": 30
+      },
+      {
+        "name": "Decona",
+        "abbreviation": "CALENDAR.GREGORIAN.DecemberAbbr",
+        "ordinal": 12,
+        "days": 30
+      }
+    ]
+  },
+  "days": {
+    "values": [
+      {
+        "name": "Monda",
+        "abbreviation": "CALENDAR.GREGORIAN.MondayAbbr",
+        "ordinal": 1
+      },
+      {
+        "name": "Tuenda",
+        "abbreviation": "CALENDAR.GREGORIAN.TuesdayAbbr",
+        "ordinal": 2
+      },
+      {
+        "name": "Wedunda",
+        "abbreviation": "CALENDAR.GREGORIAN.WednesdayAbbr",
+        "ordinal": 3
+      },
+      {
+        "name": "Thunda",
+        "abbreviation": "CALENDAR.GREGORIAN.ThursdayAbbr",
+        "ordinal": 4
+      },
+      {
+        "name": "Frinda",
+        "abbreviation": "CALENDAR.GREGORIAN.FridayAbbr",
+        "ordinal": 5
+      },
+      {
+        "name": "Satunda",
+        "abbreviation": "CALENDAR.GREGORIAN.SaturdayAbbr",
+        "ordinal": 6,
+        "isRestDay": true
+      }
+    ],
+    "daysPerYear": 360,
+    "hoursPerDay": 24,
+    "minutesPerHour": 60,
+    "secondsPerMinute": 60
+  },
+  "seasons": {
+    "values": [
+      {
+        "name": "CALENDAR.GREGORIAN.Spring",
+        "monthStart": 3,
+        "monthEnd": 5
+      },
+      {
+        "name": "CALENDAR.GREGORIAN.Summer",
+        "monthStart": 6,
+        "monthEnd": 8
+      },
+      {
+        "name": "CALENDAR.GREGORIAN.Fall",
+        "monthStart": 9,
+        "monthEnd": 11
+      },
+      {
+        "name": "CALENDAR.GREGORIAN.Winter",
+        "monthStart": 12,
+        "monthEnd": 2
+      }
+    ]
+  }
+}
