@@ -1,0 +1,6 @@
+- which character does better at same task/seeing who outperforms the other
+- GM assigns difficulty, all characters make a check
+	- character with most successes wins
+	- if none succeed, results in draw
+	- if two or more tie, go to tiebreaker round
+		- if still tied, game is a draw

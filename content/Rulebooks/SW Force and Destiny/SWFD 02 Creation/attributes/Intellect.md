@@ -1,0 +1,2 @@
+- Intelligence, education, acuity, reasoning/rationalizing, data work, recall details, long term strategies, envision ramifications.
+- Skills: [[Astrogation]], [[computers]], [[knowledge]]

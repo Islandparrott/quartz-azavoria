@@ -1,0 +1,3 @@
+- brute power, strength, toughness, fitness, hardiness, rarely sick, strong constitution
+- Skills: [[Athletics]], [[Brawl]]
+- Determines starting [[Wound Threshold]]

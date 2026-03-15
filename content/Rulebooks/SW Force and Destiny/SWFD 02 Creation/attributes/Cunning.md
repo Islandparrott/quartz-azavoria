@@ -1,0 +1,2 @@
+- Craftiness, deviousness, cleverness, creativity, savvy, social awareness, comes up with short-term plans/tactics.
+- skills: [[Deception]], [[perception]], [[survival]]

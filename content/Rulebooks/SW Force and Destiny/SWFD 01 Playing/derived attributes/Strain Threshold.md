@@ -1,0 +1,6 @@
+- How much stress before stunned, dazed, incapacitated
+- psyche/mental damage
+- more easily suffered/treated than wounds
+- based on Willpower
+- increasing after creation does not increase ST
+- only increased through talents

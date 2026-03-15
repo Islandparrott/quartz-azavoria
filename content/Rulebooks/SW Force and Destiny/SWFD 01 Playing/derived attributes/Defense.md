@@ -1,0 +1,5 @@
+- difficulty to hit
+- characters have Ranged defense & melee defense
+	- if not distinguished, defense is equal
+- default defense = 0
+- gained by armor, cover, talents

@@ -1,0 +1,5 @@
+- increasing characteristics costs 10 * next rating value
+	- max 5 in creation
+	- can only be increased- creation.
+- can improve later through talents
+- total max of 6 per stat

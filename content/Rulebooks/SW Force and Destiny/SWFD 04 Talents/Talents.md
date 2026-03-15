@@ -1,0 +1,6 @@
+- tricks, techniques, knacks PCs get through careers
+- has special ability to give edge in situations
+- given by Talent Trees
+- can be active/passive
+- some talents replace other lower level talents
+- divided into 5 tiers

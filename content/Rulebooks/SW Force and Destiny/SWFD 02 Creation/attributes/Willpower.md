@@ -1,0 +1,3 @@
+- Discipline, self control, willpower, faith, stress tolerance, fatigue tolerance, composition in chaos, influence
+- skills: [[Coercion]], [[vigilance]]
+- Determines starting [[Strain Threshold]]

@@ -1,4 +1,4 @@
-[[Star Wars Force and Destiny - Core Rulebook.pdf]]
+[[SWFFG Force and Destiny Core.pdf]] pg17
 # Narrative play
 Instead of measuring grids, state "im ducking behind the console to get cover"
 roll when performing actions that require skill or lots of luck
@@ -6,20 +6,65 @@ GM decides which dice to roll based on conditions:
 	+ ample time, Proper Tools
 	- in rain, without tools, under blaster fire
 # 17 [[SWFD Dice]]
-
+## [[Positive Dice]]
+---
+### [[Boost Dice]]
+d6 white
+- Luck, chance. advantage.
+- Can be added for many reasons, usually having ample time, having equipment.
+- [[Setback Dice]] is opposite
+### [[Ability Dice]]
+d8 green
+- PCs aptitude/skill.
+- Opposed by [[Difficulty Dice]]
+### [[Proficiency Dice]]
+d12 yellow
+- Innate ability and training
+- Used for trained [[skills]]
+- Can be added by using [[destiny point]]
+- Feature [[Triumph Symbol]]
+- upgraded [[Ability Dice]]
+## [[Negative Dice]]
+---
+### [[Setback Dice]]
+d6 black
+- problems/minor obstacles
+	- poor lighting, obstructive terrain, insufficient resources, facing a strong enemy instead of weak one
+- opposite of [[Boost Dice]]
+### [[Difficulty Dice]]
+d8 purple
+- complexity of task.  
+- Opposite of [[Ability Dice]]
+### [[Challenge Dice]]
+d12 red
+- extreme adversity/opposition
+- replaces difficulty when challenge is great.
+	- Trained, elite, prepared opponents
+- Can be added by GM investing a [[Destiny Point]]
+- upgraded [[difficulty dice]]
+---
+## [[Force Dice]]
+White d12
+- used by force sensitive characters.
+- generates resources.
+- has light/dark sides.
+## [[10 Sided Dice]]
+black, yellow d10
+- percentile
+- used in critical injuries,
+- whether morality comes into play
 ---
 ---
-# Symbols & Results
-## Positive Results
+# [[Dice Symbols and Results]]
+## [[Positive Results]]
 ---
-### Success
-![[Pasted image 20260303072232.png]]
+### [[Success Symbol]]
 - determines if succeeds or fails.  
 - 1 Success is cancelled by 1 Fail.
 - Need a positive number to succeed.
 - Combat: Each success adds to damage on target.  4 success = + 4 damage
-### Advantage
-![[Pasted image 20260303072243.png]]
+### [[Advantage Symbol]]
+
 - Positive consequence or side effect 
 - regardless of success
 	- Something good comes out of failure
@@ -28,8 +73,8 @@ GM decides which dice to roll based on conditions:
 - Cancelled by Threat
 - can spend advantage to apply 1 or more special side effects:
 	- trigger a critical hit, activate weapon special quality, recover strain, perform additional maneuvers
-### Triumph
-![[Pasted image 20260303072251.png]]
+### [[Triumph Symbol]]
+
 - Significant boon
 - 2 Effects:
 	- Counts as a success
@@ -39,15 +84,15 @@ GM decides which dice to roll based on conditions:
 		- attack with special quality.
 			- Special quality usually require multiple Advantages
 		- Has tertiary advantageous effects per GM related to environment, equipment or ability
-## Negative Results
+## [[Negative Results]]
 ---
-#### Failure
-![[Pasted image 20260303072313.png]]
+#### [[Failure Symbol]]
+
 - undermines success
 - Multiple fails does not increase magnitude of fail
 - only fails if there are 0 successes
-#### Threat
-![[Pasted image 20260303072318.png]]
+#### [[Threat Symbol]]
+
 - Has negative side effect
 	- Takes longer to do task, leaving opening in firefight that allows enemy to take cover, taking additional strain, knocked prone, losing cover, taking longer
 - occur regardless of success
@@ -55,8 +100,8 @@ GM decides which dice to roll based on conditions:
 - Cancels advantage
 - GM resolves threat effects.
 - if multiple threats, GM applies more effects.
-#### Despair
-![[Pasted image 20260303072326.png]]
+#### [[Despair Symbol]]
+
 - significant bane
 - has 2 effects:
 	- counts as a failure
@@ -64,7 +109,7 @@ GM decides which dice to roll based on conditions:
 	- has negative effect
 		- weapon jammed/out of ammo, determined by GM to environment, adversary, special ability
 - Each additional despair adds another effect
-## Force Resources
+## [[Force Resources]]
 ---
 - Generates Light/Dark side points
 - Can be used to fuel abilities like telekinesis and combat awareness
@@ -72,90 +117,90 @@ GM decides which dice to roll based on conditions:
 - used to determine starting pool of destiny points at beginning of each session
 ---
 ---
-# 24 Dice Pool
-## Characteristics
+# 24 [[Dice Pool]]
+## [[Characteristics]]
 ---
 Species decides starting characteristics.
 can increase later, but cost a lot
-### Ratings
+### [[Characteristic Ratings]]
 1: weak
 2: Average
 3-4: Significantly above average
 5-6: Exceptional
 - Max rating of 5 at character creation
 - Capped at 6
-### Agility
+### [[Agility]]
 - Hand-eye, Body control, flexibility, balance, deft hands.
-- Skills: Coordination, Ranged Light & Heavy
-### Brawn
+- Skills: [[Coordination]], [[Ranged Light]] & [[Ranged Heavy]]
+### [[Brawn]]
 - brute power, strength, toughness, fitness, hardiness, rarely sick, strong constitution
-- Skills: Athletics, Brawl
-- Determines starting Wound Threshold
+- Skills: [[Athletics]], [[Brawl]]
+- Determines starting [[Wound Threshold]]
 
-### Cunning
+### [[Cunning]]
 - Craftiness, deviousness, cleverness, creativity, savvy, social awareness, comes up with short-term plans/tactics.
-- skills: Deception, perception, survival
-### Intellect
+- skills: [[Deception]], [[perception]], [[survival]]
+### [[Intellect]]
 - Intelligence, education, acuity, reasoning/rationalizing, data work, recall details, long term strategies, envision ramifications.
-- Skills: Astrogation, computers, knowledge
+- Skills: [[Astrogation]], [[computers]], [[knowledge]]
 
-### Presence
+### [[Presence]]
 - Moxie, charisma, confidence, force of personality, natural leader, draw attention, conversation, quick to adapt.
-- Skills: Charm, leadership
-### Willpower
+- Skills: [[Charm]], [[leadership]]
+### [[Willpower]]
 - Discipline, self control, willpower, faith, stress tolerance, fatigue tolerance, composition in chaos, influence
-- skills: Coercion, vigilance
-- Determines starting strain threshold
-## Skills & Training
+- skills: [[Coercion]], [[vigilance]]
+- Determines starting [[Strain Threshold]]
+## Skills and Training
 ---
-- Career choice provides Career Skills already trained
-- improving career skills costs less
-## Difficulty
+- [[Career]] choice provides [[Career Skills]] already trained
+- improving [[career skills]] costs less
+## [[Difficulty]]
 ---
 
-| Difficulty | Dice(d8) | ie.                                                                                                                                                                                                                                                                           |
-| ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Simple     | -        | Routine.  Not rolled unless GM wants magnitude of success.  <br>can occur if a setback is present                                                                                                                                                                             |
-| Easy       | 1        | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                              |
-| Average    | 2        | Picking lock, stitching small injury, surviving on temperate planet, shooting medium range, striking target while engaged<br>Average training succeeds slightly more than fails                                                                                               |
-| Hard       | 3        | pick complicated lock, setting broken bones, treating large wounds, surviving rugged planet, shooting long range  target<br>Expect failure more than success                                                                                                                  |
-| Daunting   | 4        | picking very sophisticated lock, surgery/grafting implants, surviving on barren desert, shooting target at extreme range<br>average character with training, resources & tools will find failure more than success.                                                           |
-| Formidable | 5        | Picking lock with no comprehensible mechanism, cloning a new body, surviving on planet without atmosphere<br>Well-trained/equipped has small chance.  Even trained veterans fail more than success.  Fail inevitable unless dsestiny points, equipment, talents or assistance |
-| Impossible | 5 (DP)   | throwing a grenade to put out a fire, scaling a smooth wall, using reason to calm a rancor.  Should only be allowed during critical moments, life/death only.  Players must spend a destiny point to even attempt                                                             |
+| Difficulty         | Dice(d8)                      | ie.                                                                                                                                                                                                                                                                          |
+| ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Simple 0d8]]     | -                             | Routine.  Not rolled unless GM wants magnitude of success.  <br>can occur if a setback is present                                                                                                                                                                            |
+| [[Easy  1d8]]      | 1                             | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                             |
+| [[Average  2d8]]   | 2                             | Picking lock, stitching small injury, surviving on temperate planet, shooting medium range, striking target while engaged<br>Average training succeeds slightly more than fails                                                                                              |
+| [[Hard 3d8]]       | 3                             | pick complicated lock, setting broken bones, treating large wounds, surviving rugged planet, shooting long range  target<br>Expect failure more than success                                                                                                                 |
+| [[Daunting 4d8]]   | 4                             | picking very sophisticated lock, surgery/grafting implants, surviving on barren desert, shooting target at extreme range<br>average character with training, resources & tools will find failure more than success.                                                          |
+| [[Formidable 5d8]] | 5                             | Picking lock with no comprehensible mechanism, cloning a new body, surviving on planet without atmosphere<br>Well-trained/equipped has small chance.  Even trained veterans fail more than success.  Fail inevitable unless destiny points, equipment, talents or assistance |
+| [[Impossible 5d8]] | 5, requires [[destiny point]] | throwing a grenade to put out a fire, scaling a smooth wall, using reason to calm a rancor.  Should only be allowed during critical moments, life/death only.  Players must spend a destiny point to even attempt                                                            |
 ## 27 Building a Dice Pool
 ---
-- Player contributes the positive die
-- GM contributes negative
+- Player contributes the [[Positive Dice]]
+- GM contributes [[Negative Dice]]
 - each additional aspect must be explained and defined
-- GM sets difficulty
-### Applying skills/Characteristics
+- GM sets [[Difficulty]]
+### Applying [[skills]]/[[Characteristics]]
 - Higher of skill/characteristic sets AMOUNT of dice
 - lower of skill/characteristic sets UPGRADED dice
-### Applying Difficulty
-- GM sets difficulty
+### Applying [[Difficulty]]
+- GM sets [[Difficulty]]
 - GM may upgrade dice for a given reason
 	- facing skilled opponent, particularly challenging
 	- GM spends a destiny point
-### Modifying a Dice Pool
+### Modifying a [[Dice Pool]]
 - any environmental effect can effect. 
 	- hull breach, motionless pirate in bright light, terrain, lighting, tactics, time constraints, equipment, talents, abilities, destiny points
 - Usually upgrade/downgrade or remove dice
 - not usually necessary unless rule/ability calls for it.  not applied arbitrarily
-- if task has elements that make it unique then can add additional boost/setback dice
+- if task has elements that make it unique then can add additional [[Boost Dice]]/[[setback dice]]
 	#### 1 Adding Dice
 	- Add for environmental conditions.
 		- 1 die for each individual bonus/setback
 		- usually for gear, time, position, inferior supplies, lighting, distractions or surprise
 	- Boost & Setback dice do not cancel eachother out.  they stack
 	- describe characters actions in detail, point out advantages/disadvantages they may have
-	#### 2 Upgrading/Downgrading Dice
-	- Mostly occurs when spending Destiny Points
+	#### 2 Upgrading/Downgrading Dice [[upgrading dice]] / [[downgrading dice]]
+	- Mostly occurs when spending [[Destiny Points]]
 	- If no upgradeable dice remain, add ability/difficulty dice, then any future will upgrade that dice.  process repeats
 	- Upgrading = using higher dice
 	- increasing = using more dice
 	- Upgrades applied first, then downgrades are applied
 	#### 3 Removing Dice
-	- usually done by character talents
+	- usually done by character [[Talents]]
 	- done after upgrades/downgrades
 ---
 ---
@@ -179,21 +224,21 @@ can increase later, but cost a lot
 	- advantage/threat: recover/lose strain, triumph/despair: heal/gain wound
 ---
 ---
-# 32 Other Checks
+# 32 [[Other Checks]]
 ---
-## Opposed Checks
+## [[Opposed Checks]]
 - success/failure influenced by opponent
 - actively precenting characters success
 	- lying (deception vs vigilance)
 - Difficulty set by opposing characters relevant statistic
-## Competitive checks
+## [[Competitive checks]]
 - which character does better at same task/seeing who outperforms the other
 - GM assigns difficulty, all characters make a check
 	- character with most successes wins
 	- if none succeed, results in draw
 	- if two or more tie, go to tiebreaker round
 		- if still tied, game is a draw
-## Assisted checks
+## [[Assisted checks]]
 - variations of normal checks with >1 characters working together
 - player explains how they are helping, if reasonable
 - Skilled assistance: if helper has higher characteristic/skill, dice pool may use any of the characteristics/skill ratings
@@ -206,8 +251,8 @@ can increase later, but cost a lot
 - during combat/structured encounters, can perform assist maneuver. 
 ---
 ---
-# 34 Other Elements
-## Talents
+# 34 [[Other Elements]]
+## [[Talents]]
 ---
 - tricks, techniques, knacks PCs get through careers
 - has special ability to give edge in situations
@@ -215,11 +260,11 @@ can increase later, but cost a lot
 - can be active/passive
 - some talents replace other lower level talents
 - divided into 5 tiers
-## Destiny Points
+## [[Destiny Points]]
 ---
 - elevates heroes above commoners
 - has light/dark side.  
-### Destiny Pool
+### [[Destiny Pool]]
 - Prep: 
 	- each player rolls a Force die at start of session
 	- results tallied to become starting pool.  1 symbol is 1 point
@@ -246,7 +291,7 @@ can increase later, but cost a lot
 - only 1 DP may be spent per check per side
 ---
 ---
-# 37 Experience & Development
+# 37 [[Experience]] & Development
 ---
 ## Starting XP
 - gain XP based on species
@@ -276,7 +321,7 @@ can increase later, but cost a lot
 	- Non-career specialization price = 10 * # of specializations after purchase + 10
 ---
 ---
-# 39 Derived Attributes
+# 39 [[Derived Attributes]]
 ---
 ## Wound Threshold
 - how much damage before knocked out

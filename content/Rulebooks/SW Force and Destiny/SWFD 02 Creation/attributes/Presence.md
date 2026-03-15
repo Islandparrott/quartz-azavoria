@@ -1,0 +1,2 @@
+- Moxie, charisma, confidence, force of personality, natural leader, draw attention, conversation, quick to adapt.
+- Skills: [[Charm]], [[leadership]]

@@ -1,0 +1,6 @@
+- how much damage before knocked out
+- Wounds can lead to critical injury
+- treated with Medicine, take time to recover (droids use mechanics)
+- starting WT is based on Brawn on character creation
+- can not be increased by increasing Brawn.
+- can only be increased by purchasing talents

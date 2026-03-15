@@ -1,0 +1,4 @@
+- success/failure influenced by opponent
+- actively precenting characters success
+	- lying (deception vs vigilance)
+- Difficulty set by opposing characters relevant statistic

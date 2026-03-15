@@ -1,0 +1,6 @@
+- skills have 5 ranks of training
+- gain some from career and specialization for free
+- max of rank 2 during creation
+- cost depends on career vs non-career skills
+	- Career: 5 * next rank value
+	- Non-career: 5 * next rank value + 5

@@ -1,0 +1,10 @@
+- variations of normal checks with >1 characters working together
+- player explains how they are helping, if reasonable
+- Skilled assistance: if helper has higher characteristic/skill, dice pool may use any of the characteristics/skill ratings
+- unskilled assistance: if no higher stats.. GM may add 1 [[Boost Dice]]
+- certain conditions may need to be met for help.  
+	- may need to be close, 
+- only 1 providing assistance at a time
+	- gm may decide some situation can accommodate more.
+		- only 1 can provide skilled assistance, others only give +1 boost
+- during combat/structured encounters, can perform assist maneuver. 

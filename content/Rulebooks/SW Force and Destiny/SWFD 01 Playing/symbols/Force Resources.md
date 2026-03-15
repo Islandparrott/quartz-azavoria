@@ -1,0 +1,4 @@
+- Generates Light/Dark side points
+- Can be used to fuel abilities like telekinesis and combat awareness
+- used to power effects like magnitude, range or duration
+- used to determine starting pool of destiny points at beginning of each session
