@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: rywum-4jt5h
-created: 2026-03-12T21:46:53-07:00
