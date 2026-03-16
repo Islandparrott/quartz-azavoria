@@ -1,0 +1,3 @@
+- threshold = 5 + brawn
+- if over encumbered, +1 setback(black d6) to all agility & brawn for ever point over limit
+- if encumbered by amount = brawn, loses free maneuver & takes 2 strain each additional maneuver they take

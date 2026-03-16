@@ -1,0 +1,4 @@
+- enc <= 1 are hidden easily
+- if inspected, Opposed check: Perception vs Stealth
+	- +1 boost to searcher for every point over 1, no cap
+	- boosts adjusted based on species, larger species may hide larger items easier

@@ -1,0 +1,14 @@
+- deflect/reduce damage
+- each defense adds 1 SETBACK to any attack
+	- each FAIL can greatly reduce/negate damage
+	- THREATs lessen critical hits
+#### Silhouette & Defense Zones
+- have number of defense Zones dictated by silhouette
+	- <= 4, 2 DEFENSE ZONEs (forward and aft)
+	- >= 5, 4 ZONES, (forward, aft, port, starboard)
+- each ship has preset zone ratings
+	- set by computer system & shield generators
+- can re-route defense from one zone to another
+	- move 2pt of forward defense to add 2 pt to aft defense
+	- lasts until you change it back on your turn
+- each DEFENSE ranking adds 1 SETBACK to attack

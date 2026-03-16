@@ -1,0 +1,2 @@
+- [[Wound threshold]] for vehicles
+- 1 HTT = 10 Wound Threshold

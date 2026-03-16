@@ -1,0 +1,4 @@
+- attachments customize item
+- takes a few minutes of work
+- gives small bonus/changes effect
+- customization can be anything

@@ -1,0 +1,3 @@
+- little time/effort
+- drop an item, talking, switching blaster mode, minor movements, peeking around corners etc
+- no limit on incidentals

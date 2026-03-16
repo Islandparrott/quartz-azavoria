@@ -1,0 +1,2 @@
+- heal 3 wounds
+- does not lessen

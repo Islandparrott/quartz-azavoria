@@ -1,0 +1,7 @@
+- no roll required
+- heals 5 wounds
+- wounds healed lessens by 1 each use.  must wait 24 hours before being used normally
+	- 6th stimpack would have no effect
+- takes 1 maneuver
+- must be engaged
+- no effect on crit injuries

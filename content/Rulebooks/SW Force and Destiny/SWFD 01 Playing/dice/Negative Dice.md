@@ -1,13 +1,13 @@
-### [[Setback Dice]]
+### [[Setback D6]]
 d6 black
 - problems/minor obstacles
 	- poor lighting, obstructive terrain, insufficient resources, facing a strong enemy instead of weak one
 - opposite of boost
-### [[Difficulty Dice]]
+### [[Difficulty D8]]
 d8 purple
 - complexity of task.  
 - Opposite of ability
-### [[Challenge Dice]]
+### [[Challenge D12]]
 d12 red
 - extreme adversity/opposition
 - replaces difficulty when challenge is great.

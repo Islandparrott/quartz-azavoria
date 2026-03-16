@@ -1,0 +1,2 @@
+- each hour, heal 1 wound
+- do not remove crit injuries

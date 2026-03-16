@@ -1,0 +1,7 @@
+- Roll [[Negotiation]] check against [[Rarity]] [[difficulty]].
+- item sells for 1/4 the price
+	- 1/2 for 2 successes
+	- 3/4 with 3+ successes
+- Can make buy items in a core world and deliver to outer rim for a profit
+- Legal items: Negotiation
+- Illegal items: Streetwise

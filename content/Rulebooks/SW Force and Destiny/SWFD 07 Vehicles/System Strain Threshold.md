@@ -1,0 +1,8 @@
+- exceeding strain threshold causes system overloads, shutting down until repaired/rebooted
+- negatively effects performance and disables occasionally
+- suffers strain from:
+	- crew activities
+	- excess THREATs
+- System strain cant be recovered by ADVANTAGE
+	- only recovered through crew actions
+	- reduced by 1 for every full day spent without suffering more strain

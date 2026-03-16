@@ -8,42 +8,42 @@ GM decides which dice to roll based on conditions:
 # 17 [[SWFD Dice]]
 ## [[Positive Dice]]
 ---
-### [[Boost Dice]]
+### [[Boost D6]]
 d6 white
 - Luck, chance. advantage.
 - Can be added for many reasons, usually having ample time, having equipment.
-- [[Setback Dice]] is opposite
-### [[Ability Dice]]
+- [[Setback D6]] is opposite
+### [[Ability D8]]
 d8 green
 - PCs aptitude/skill.
-- Opposed by [[Difficulty Dice]]
-### [[Proficiency Dice]]
+- Opposed by [[Difficulty D8]]
+### [[Proficiency D12]]
 d12 yellow
 - Innate ability and training
 - Used for trained [[skills]]
 - Can be added by using [[destiny point]]
 - Feature [[Triumph Symbol]]
-- upgraded [[Ability Dice]]
+- upgraded [[Ability D8]]
 ## [[Negative Dice]]
 ---
-### [[Setback Dice]]
+### [[Setback D6]]
 d6 black
 - problems/minor obstacles
 	- poor lighting, obstructive terrain, insufficient resources, facing a strong enemy instead of weak one
-- opposite of [[Boost Dice]]
-### [[Difficulty Dice]]
+- opposite of [[Boost D6]]
+### [[Difficulty D8]]
 d8 purple
 - complexity of task.  
-- Opposite of [[Ability Dice]]
-### [[Challenge Dice]]
+- Opposite of [[Ability D8]]
+### [[Challenge D12]]
 d12 red
 - extreme adversity/opposition
 - replaces difficulty when challenge is great.
 	- Trained, elite, prepared opponents
 - Can be added by GM investing a [[Destiny Point]]
-- upgraded [[difficulty dice]]
+- upgraded [[Difficulty D8]]
 ---
-## [[Force Dice]]
+## [[Force D12]]
 White d12
 - used by force sensitive characters.
 - generates resources.
@@ -154,14 +154,14 @@ can increase later, but cost a lot
 ## Skills and Training
 ---
 - [[Career]] choice provides [[Career Skills]] already trained
-- improving [[career skills]] costs less
+- improving [[Career Skills]] costs less
 ## [[Difficulty]]
 ---
 
 | Difficulty         | Dice(d8)                      | ie.                                                                                                                                                                                                                                                                          |
 | ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Simple 0d8]]     | -                             | Routine.  Not rolled unless GM wants magnitude of success.  <br>can occur if a setback is present                                                                                                                                                                            |
-| [[Easy  1d8]]      | 1                             | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                             |
+| [[Easy 1d8]]      | 1                             | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                             |
 | [[Average  2d8]]   | 2                             | Picking lock, stitching small injury, surviving on temperate planet, shooting medium range, striking target while engaged<br>Average training succeeds slightly more than fails                                                                                              |
 | [[Hard 3d8]]       | 3                             | pick complicated lock, setting broken bones, treating large wounds, surviving rugged planet, shooting long range  target<br>Expect failure more than success                                                                                                                 |
 | [[Daunting 4d8]]   | 4                             | picking very sophisticated lock, surgery/grafting implants, surviving on barren desert, shooting target at extreme range<br>average character with training, resources & tools will find failure more than success.                                                          |
@@ -186,7 +186,7 @@ can increase later, but cost a lot
 	- hull breach, motionless pirate in bright light, terrain, lighting, tactics, time constraints, equipment, talents, abilities, destiny points
 - Usually upgrade/downgrade or remove dice
 - not usually necessary unless rule/ability calls for it.  not applied arbitrarily
-- if task has elements that make it unique then can add additional [[Boost Dice]]/[[setback dice]]
+- if task has elements that make it unique then can add additional [[Boost D6]]/[[Setback D6]]
 	#### 1 Adding Dice
 	- Add for environmental conditions.
 		- 1 die for each individual bonus/setback

@@ -1,0 +1,4 @@
+- characters carry many mundane/inexpensive items on them
+	- Chronos, journals, multitools, creds, clothing, shoes, hates, jewelry, snacks, mementos, etc.
+- no need to track
+- can have as many as they feel they would carry

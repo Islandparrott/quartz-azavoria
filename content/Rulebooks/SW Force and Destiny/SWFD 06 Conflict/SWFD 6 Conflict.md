@@ -1,4 +1,4 @@
-# Conflict Structure
+# [[Conflict Structure]]
 ---
 - Rounds and turns
 	- 1 round = ~1 minute, but not specified
@@ -27,7 +27,7 @@
 
 ---
 ---
-# Turn
+# [[Turn]]
 - can take any number of things:
 	- take cover, unlock a door, shoot a blaster
 - ACTIVITIES: Incidentals, maneuvers & Actions
@@ -70,7 +70,6 @@
 4. resolve Advantage & threat
 5. resolve triumph & despair
 6. reduce damage, apply wound, apply injury
-![[Pasted image 20260302213854.png]]
 
 | Range   | Difficulty(d8) |
 | ------- | -------------- |
@@ -82,7 +81,7 @@
 
 ---
 ---
-# Range
+# [[Range]]
 ---
 ## Engaged
 - right up next to it, 
@@ -111,7 +110,7 @@
 - takes up next scale past Personal Extreme range
 ---
 ---
-# 217 Additional Modifiers
+# 217 [[Additional Modifiers]]
 ---
 ## Ranged vs Engaged targets
 - If target is engaged with another target
@@ -121,7 +120,7 @@
 - when character makes ranged attack at engaged distance 
 	- Character engaging gains +1 BOOST to melee attack
 	- lost if no longer engaged
-![[Pasted image 20260303071922.png]]
+
 ## Prone Attacking
 - +1 BOOST to MELEE attacks against prone target
 - +1 SETBACK to MELEE attacks while prone
@@ -163,18 +162,18 @@
 - DAM based on size/weight
 - 1 DESPAIR or 2 THREAT breaks weapon, becomes useless
 - large weapons require 2 hands for Silhouette 1 or lesser
-![[Pasted image 20260303080300.png]]
+
 ## Silhouettes
 ---
 - if target is 2 SILHOUETTEs larger than attacker, -1 DIFFICULTY to attack
 - if target is 2 SILHOUETTEs smaller, +1 DIFFICULTY
-![[Pasted image 20260303080652.png]]
+
 ---
 ---
 # Environmental Effects
 ---
 ---
-# Wounds
+# [[Wound]]s
 ## Wound Threshold
 --
 - each DAM causes 1 WOUND
@@ -229,7 +228,7 @@
 	- destroyed droid cant be revived (CPU destroyed) 
 ---
 ---
-# Healing
+# [[Healing]]
 ## Natural Rest
 ---
 - each Full Nights rest, heal 1 wound

@@ -1,0 +1,2 @@
+- ship holds will have [[Encumbrance Threshold]]
+- [[smuggling panels ]]are hidden around ship, from 2-30 encT

@@ -1,6 +1,6 @@
 
-## Ranks
-- If character does not have relevant skill rank, default to using relevant Characteristic
+## [[Skill Ranks]]
+- If character does not have relevant skill rank, default to using relevant [[Characteristic]]
 - Each rank is substantial training/practice
 - practice must come under strenuous, differing conditions
 - rank levels
@@ -11,9 +11,9 @@
 - GM may add new skills if relevant to campaign
 - Skill may be applied to relevant career skills.
 
-## 114 General
+## 114 [[General Skills]]
 each skill goes over how to use triumphs/despairs
-## 129 Combat
+## 129 [[Combat Skills]]
 
-## 132 Knowledge
+## 132 [[Knowledge Skills]]
 

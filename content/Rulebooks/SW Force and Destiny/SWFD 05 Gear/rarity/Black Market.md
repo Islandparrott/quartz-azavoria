@@ -1,0 +1,5 @@
+- GM Decides what is available
+- requires [[Streetwise]] vs [[difficulty]]
+- selling requires [[streetwise]].
+	- if 3 fail or despair generated, something is wrong.  
+		- Buyer robs players, police arrive to arrest them etc.

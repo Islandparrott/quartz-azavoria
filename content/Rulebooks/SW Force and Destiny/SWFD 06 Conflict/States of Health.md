@@ -1,0 +1,13 @@
+- Unwounded
+	- no injuries/wounds
+- Wounded
+	- any wounds.
+ 	- taken cuts, bruises, scrapes
+  	- no permanent damage
+- Critically Injured
+	- suffering from Crit Injury
+ 	- Actual Injuries with effect
+- Incapacitated
+	- more wounds than threshold
+ 	- Unconcious, cant act until wounds decresed below WT
+  	- automatically gains Crit Injury

@@ -1,0 +1,13 @@
+- May attempt MEDICINE check
+	- difficulty = State of Health
+ 	- heals WOUNDs = successes
+  	- heals STRAIN = advantages
+- only 1 MEDICINE check each encounter
+- may attempt to heal CRIT INJURY with MEDICINE check
+	- difficulty = CRIT INJURY SEVERITY
+ 	- 1 medicine check / week / crit injury
+- can attempt to MEDICINE check own wounds
+	- +2 difficulty
+ 	- +1 if droid
+- without equipment, +1 difficulty
+- Droids use MECHANICS

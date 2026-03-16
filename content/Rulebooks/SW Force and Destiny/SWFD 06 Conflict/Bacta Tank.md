@@ -1,0 +1,4 @@
+- heal 1 wound every 2 hours
+- incapacitated heals 1 wound every 6 hours
+- after each day, attempt RESILIENCE check
+	- heal crit injury

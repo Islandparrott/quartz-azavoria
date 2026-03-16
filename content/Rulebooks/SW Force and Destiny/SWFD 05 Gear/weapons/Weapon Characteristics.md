@@ -1,0 +1,10 @@
+- skill used
+- DAM = each additional SUCCESS adds 1 damage to attack
+- CRIT = # TRIUMPHs required to trigger crit injury
+	- on crit, roll percentile on CRIT INJURY table
+	- only triggered on successful hit that surpasses SOAK
+	- can be modified by weapon/talent,
+	- only 1 crit roll per hit
+		- if rolled enough triumph to trigger multiple times, add +10 to CRIT INJURY roll
+- Range: several bands, see 213 & 244
+- Hard Points: # of attachments you can add

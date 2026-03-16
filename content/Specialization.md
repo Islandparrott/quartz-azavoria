@@ -1,0 +1,7 @@
+- gets 1 free Specialization
+- material added to framework for distinction
+- specific area of focus in a career
+- each has a unique [[talent tree]]
+- grants 4 additional [[Career Skills]]
+	- gains 2 free skill ranks 
+		- only gained from creation

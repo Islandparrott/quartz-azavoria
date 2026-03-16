@@ -1,4 +1,4 @@
-# Rarity
+# [[Rarity]]
 ---
 - Determines difficulty to find
 - Requires a Negotiations check to source better items
@@ -22,14 +22,14 @@
 | 2          | Outer rim, frontier                             | x2            |
 | 3          | Wild Space                                      | x3            |
 | 4          | Uncivilized                                     | x4            |
-## Black Market
+## [[Black Market]]
 - GM Decides what is available
-- requires streetwise vs difficulty
-- selling requires streetwise.
+- requires [[Streetwise]] vs [[difficulty]]
+- selling requires [[streetwise]].
 	- if 3 fail or despair generated, something is wrong.  
 		- Buyer robs players, police arrive to arrest them etc.
-## Trading
-- Roll Negotiation check against rarity difficulty.
+## [[Trading]]
+- Roll [[Negotiation]] check against [[Rarity]] [[difficulty]].
 - item sells for 1/4 the price
 	- 1/2 for 2 successes
 	- 3/4 with 3+ successes
@@ -38,7 +38,7 @@
 - Illegal items: Streetwise
 ---
 ---
-# 159 Encumbrance
+# 159 [[Encumbrance]]
 ---
 
 | size | descriptions                                         |
@@ -53,7 +53,7 @@
 	- if character bad at management, increase enc
 - living being enc = 5 + brawn
 	- may be modified depending on species
-## Encumbrance Threshold
+## [[Encumbrance Threshold]]
 - threshold = 5 + brawn
 - if over encumbered, +1 setback(black d6) to all agility & brawn for ever point over limit
 - if encumbered by amount = brawn, loses free maneuver & takes 2 strain each additional maneuver they take
@@ -62,22 +62,22 @@
 - simple if enc is <= EncT 
 	- increase by 1 each point over up to 4
 - if assisting, characters add raw brawn to encT
-## Concealing
+## [[Concealing Items]]
 - enc <= 1 are hidden easily
 - if inspected, Opposed check: Perception vs Stealth
 	- +1 boost to searcher for every point over 1, no cap
 	- boosts adjusted based on species, larger species may hide larger items easier
-## Vehicle Encumbrance
+## [[Vehicle Encumbrance]]
 - ship holds will have enc threshold
 - smuggling panels are hidden around ship, from 2-30 encT
 ---
 ---
-# 161 Qualities
+# 161 [[Qualities]]
 features of the items
 
 ---
 ---
-# 166 Maintenance
+# 166 [[Maintenance]]
 - requires time & tools
 - 2 hours per difficulty
 	- if trying to go quickly, increase difficulty by 1
@@ -93,13 +93,13 @@ features of the items
 | Minor    | 1              | +1 setback(d6)     | .25 * price  |
 | Moderate | 2              | +1 difficulty (d8) | .5 * price   |
 | Major    | 3              | Unusable           | 1.00 * price |
-## Ammo
+## [[Ammo]]
 - not tracked unless having specific quality
 - can run out when rolling a despair
 
 ---
 ---
-# 167 Weapons
+# 167 [[Weapons]]
 
 ## Characteristics 165
 - skill used
@@ -113,27 +113,26 @@ features of the items
 - Range: several bands, see 213 & 244
 - Hard Points: # of attachments you can add
 ## 167 Blasters & Slugthrowers
-![[Pasted image 20260302203714.png]]
 
 170 Explosives
 ## 171 Brawl & Melee
-![[Pasted image 20260302203704.png]]
+
 ## 175 lightsabers
 - First step to creating lightsaber is the get a HILT
-![[Pasted image 20260302203651.png]]
+
 
 ---
 ---
-# 178 Armor
+# 178 [[Armor]]
 - Defense: Add SETBACK(d6) = defense rating to attacker DICE POOL
 - Soak: added to wearers BRAWN, subtracts from any damage suffered
 	- ie. 2 SOAK + 2 BRAWN vs 6DAM = 2DAM
 - Encumbrance = when worn, encumbrance reduced by 3
-![[Pasted image 20260302203639.png]]
+
 ---
 ---
-# 180 Gear
-![[Pasted image 20260302203802.png]]
+# 180 [[Gear]]
+
 - many not often needed
 - Whenever character uses gear to aid in a task, +1 boost
 - do not track food unless relevant to the story
@@ -144,7 +143,7 @@ features of the items
 - can have as many as they feel they would carry
 ---
 ---
-# 191 Mods
+# 191 [[Mods]]
 - look can be tailored cosmetically and mechanically
 ## Attachments
 ![[Pasted image 20260302205054.png]]

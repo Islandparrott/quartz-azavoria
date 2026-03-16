@@ -1,0 +1,4 @@
+- [[Defense]]: Add [[Setback D6]] = defense rating to attacker DICE POOL
+- [[Soak]]: added to wearers [[BRAWN]], subtracts from any damage suffered
+	- ie. 2 SOAK + 2 BRAWN vs 6DAM = 2DAM
+- [[Encumbrance]] = when worn, encumbrance reduced by 3

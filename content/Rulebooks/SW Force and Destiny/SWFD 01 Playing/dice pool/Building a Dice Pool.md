@@ -15,7 +15,7 @@
 	- hull breach, motionless pirate in bright light, terrain, lighting, tactics, time constraints, equipment, talents, abilities, destiny points
 - Usually upgrade/downgrade or remove dice
 - not usually necessary unless rule/ability calls for it.  not applied arbitrarily
-- if task has elements that make it unique then can add additional [[Boost Dice]]/[[setback dice]]
+- if task has elements that make it unique then can add additional [[Boost D6]]/[[Setback D6]]
 	#### 1 Adding Dice
 	- Add for environmental conditions.
 		- 1 die for each individual bonus/setback

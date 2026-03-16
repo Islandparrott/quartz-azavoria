@@ -1,0 +1,2 @@
+- not tracked unless having specific quality
+- can run out when rolling a despair

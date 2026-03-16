@@ -1,0 +1,7 @@
+- each Full Nights rest, heal 1 wound
+- after 1 week of rest, roll RESILIENCE
+	- Difficulty = Crit Injury severity rating
+	- success: recover from crit injury
+	- fail: no effect
+ 	- triumph: heal additional crit injury 
+- Droids heal in the same fashion

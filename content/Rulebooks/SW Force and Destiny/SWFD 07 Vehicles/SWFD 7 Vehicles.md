@@ -1,4 +1,4 @@
-# Characteristics
+# [[Vehicle Characteristics]]
 ## Handling
 ---
 - decided by size, shape, control system, mass and awkwardness

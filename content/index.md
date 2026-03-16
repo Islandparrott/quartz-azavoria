@@ -1,3 +1,10 @@
+---
+draft: false
+title: Azavoria Quartz
+---
+TEMPLATE
+
+
 # Rulebooks
 [[SWFD Notes]]
 

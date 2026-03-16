@@ -34,14 +34,14 @@ can increase later, but cost a lot
 ## Skills and Training
 ---
 - [[Career]] choice provides [[Career Skills]] already trained
-- improving [[career skills]] costs less
+- improving [[Career Skills]] costs less
 ## [[Difficulty]]
 ---
 
 | Difficulty         | Dice(d8)                      | ie.                                                                                                                                                                                                                                                                          |
 | ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Simple 0d8]]     | -                             | Routine.  Not rolled unless GM wants magnitude of success.  <br>can occur if a setback is present                                                                                                                                                                            |
-| [[Easy  1d8]]      | 1                             | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                             |
+| [[Easy 1d8]]      | 1                             | Picking primitive lock, tending minor injury, surviving on lush planet, shooting close target.<br>Little challenge, but something could go wrong                                                                                                                             |
 | [[Average  2d8]]   | 2                             | Picking lock, stitching small injury, surviving on temperate planet, shooting medium range, striking target while engaged<br>Average training succeeds slightly more than fails                                                                                              |
 | [[Hard 3d8]]       | 3                             | pick complicated lock, setting broken bones, treating large wounds, surviving rugged planet, shooting long range  target<br>Expect failure more than success                                                                                                                 |
 | [[Daunting 4d8]]   | 4                             | picking very sophisticated lock, surgery/grafting implants, surviving on barren desert, shooting target at extreme range<br>average character with training, resources & tools will find failure more than success.                                                          |
@@ -66,7 +66,7 @@ can increase later, but cost a lot
 	- hull breach, motionless pirate in bright light, terrain, lighting, tactics, time constraints, equipment, talents, abilities, destiny points
 - Usually upgrade/downgrade or remove dice
 - not usually necessary unless rule/ability calls for it.  not applied arbitrarily
-- if task has elements that make it unique then can add additional [[Boost Dice]]/[[setback dice]]
+- if task has elements that make it unique then can add additional [[Boost D6]]/[[Setback D6]]
 	#### 1 Adding Dice
 	- Add for environmental conditions.
 		- 1 die for each individual bonus/setback
