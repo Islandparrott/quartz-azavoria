@@ -23,7 +23,7 @@
 	- Boost & Setback dice do not cancel eachother out.  they stack
 	- describe characters actions in detail, point out advantages/disadvantages they may have
 	#### 2 Upgrading/Downgrading Dice [[upgrading dice]] / [[downgrading dice]]
-	- Mostly occurs when spending [[Destiny Points]]
+	- Mostly occurs when spending [[Rulebooks/SW Force and Destiny/SWFD 01 Playing/other/Destiny Point]]
 	- If no upgradeable dice remain, add ability/difficulty dice, then any future will upgrade that dice.  process repeats
 	- Upgrading = using higher dice
 	- increasing = using more dice

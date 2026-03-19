@@ -1,3 +1,4 @@
+![[threat.png]]
 - Has negative side effect
 	- Takes longer to do task, leaving opening in firefight that allows enemy to take cover, taking additional strain, knocked prone, losing cover, taking longer
 - occur regardless of success

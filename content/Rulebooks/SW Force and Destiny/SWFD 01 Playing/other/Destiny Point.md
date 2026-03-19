@@ -1,9 +1,7 @@
 - elevates heroes above commoners
 - has light/dark side.  
 ### [[Destiny Pool]]
-- Prep: 
-	- each player rolls a Force die at start of session
-	- results tallied to become starting pool.  1 symbol is 1 point
+![[Destiny Pool]]
 ### Destiny Point Usage
 - Players spend light, GM spends dark
 - when you spend 1 point, it flips to the opposite

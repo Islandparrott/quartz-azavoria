@@ -13,8 +13,4 @@
 - When taking Strain > Strain Threshold, become incapacitated & unconcious or dazed/staggered to be unaware
 - NPCs take [[Strain]] DAM straight to [[Wound Threshold]]
 ### [[Strain Criticial Injury]]
-- strain can trigger crit injuries
-- if [[NPC]] is incapacitated by Strain Crit Injury, they are unconcious
-- is PC/Nemesis takes crit injury from stun, can be long-term effects
-	- knocked off balance, take crack to skull
-- may choose for these crit injuries to do nothing instead.
+![[Strain Criticial Injury]]

@@ -1,3 +1,5 @@
+
+![[Triumph.png]]
 - Significant boon
 - 2 Effects:
 	- Counts as a success

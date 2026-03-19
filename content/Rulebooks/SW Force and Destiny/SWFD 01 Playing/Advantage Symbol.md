@@ -1,3 +1,5 @@
+
+![[Advantage.png]]
 - Positive consequence or side effect 
 - regardless of success
 	- Something good comes out of failure

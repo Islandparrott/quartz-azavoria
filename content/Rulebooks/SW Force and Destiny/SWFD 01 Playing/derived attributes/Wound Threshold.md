@@ -5,7 +5,7 @@
 - starting WT is based on Brawn on character creation
 - can not be increased by increasing Brawn.
 - can only be increased by purchasing talents
-# Conflict
+# [[Conflict]]
 - each DAM causes 1 WOUND
 - When taking a WOUND > WOUND THRESHOLD,
 	- become incapacitated

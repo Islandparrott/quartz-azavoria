@@ -1,0 +1,5 @@
+- strain can trigger crit injuries
+- if [NPC](app://obsidian.md/NPC) is incapacitated by Strain Crit Injury, they are unconcious
+- is PC/Nemesis takes crit injury from stun, can be long-term effects
+    - knocked off balance, take crack to skull
+- may choose for these crit injuries to do nothing instead.

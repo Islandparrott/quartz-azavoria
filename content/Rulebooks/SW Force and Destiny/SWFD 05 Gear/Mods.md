@@ -1,10 +1,6 @@
 - look can be tailored cosmetically and mechanically
 ## [[Attachments]]
-
-- attachments customize item
-- takes a few minutes of work
-- gives small bonus/changes effect
-- customization can be anything
+![[Attachments]]
 ## Mods
 - when furhter changes are wanted
 - can improve on performance

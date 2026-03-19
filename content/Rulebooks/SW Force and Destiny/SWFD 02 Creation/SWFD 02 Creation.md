@@ -1,4 +1,5 @@
 # Creating a Hero
+---
 - point buy
 - gets budget of XP 
 - [[Species]] determines 
@@ -7,41 +8,86 @@
 	- old hermit, once a jedi, naive youth etc
 - have discussion of types of characters.
 - could focus on specific skills/subset of species etc
-# Steps
-## 1 Determine [[Background]]
+# 1 Determine [[Background]]
+---
 - what to build?
 - where did they come from?
 - what inspired you to leave life?
 - when was the first connection to force?
-## 2 [[Morality]]
-- [[morality]] tracks good vs evil
-- can affect decisions, moral compass, [[skills]], [[characteristics]] and [[gear]]
-## 3 [[Species]]
-- [[Force]] in all living things
-- choose after [[morality]]
+## Background
+- based on philosophy, youth background
+- every character must come from somewhere.
+- influences [[Morality]] and [[Motivation]]
+- provides depth
+### Cultural Background
+- decides characters starting background
+- comfortable with tech, primitive backwater, privileged few
+- poor and hungry
+### Experiencing the [[force]]
+- how someone views the force.
+- Ancient religion, duty to tradition, pragmatic power, one with the force
+### Heeding the call
+- cause for leaving life behind/goal
+- fleeing the empire, desire for understanding, With great power.., Ultimate abilities
+---
+---
+# 2 Determine [[Morality]]
+![[Morality]]
+
+---
+---
+# 3 [[Species]]
+---
 - sets [[characteristics]] 
-- have unique abilities
-## 4 [[Career]]
-- focus of training, practice and experience
-- establishes what is most readily available
-- each has 6 [[Career Skills]]  
-	- gain 1 free rank in 3 of the [[skills]]
-	- Each Force & Destiny career grants a [[Force Rating]] of 1
-	- less expensive than normal skills
-## 5 [[Specialization]]
-- gets 1 free Specialization
-- material added to framework for distinction
-- specific area of focus in a career
-- each has a unique [[talent tree]]
-- grants 4 additional [[Career Skills]]
-	- gains 2 free skill ranks 
-		- only gained from creation
-## 6 spend [[Experience]]
-- Purchase [[skills]], [[talents]], [[Specialization]] or [[force powers]]
+## Languages
+- vital to star wars setting
+- each species has its own language
+- protocol doids are fluent in most communication
+- most citizens speak [[Galactic Basic]]
+- tracking languages not required
+- GM should make most NPCs comprehensible through one reason or another.
+- Should only cause an issue if lack of language is a plot point
+---
+---
+# 4 [[Career]]
+![[Career]]
 
-## 7 Derived attributes
-## 8 Motivation
-## 9 Gear/Appearance
-## 10 Group resource
+---
+---
+# 5 [[Specialization]]
+![[Specialization]]
 
+---
+---
+# 6 spend [[Experience]]
+![[Experience]]
+
+---
+---
+# 7 Determine [[Derived attributes]]
+![[Derived Attributes]]
+
+---
+---
+# 8 [[Motivation]]
+![[Motivation]]
+
+---
+---
+# 9 Gear/Appearance
+- determine height, weight, eye/hair/skin/clothing color/style, build, features (scar/tattoo) based on previous choices
+- have fun with range of appearance, dont be strict
+## Starting [[Gear]]
+- gain +500 [[credits]] to spend on gear/weaponry
+	- (can increase in morality values, pg49)
+- May not purchase any [[restricted item]] (R)
+- can have any number of [[sundries]]
+- keep any credits unspent
+- after spending, gain +1d100 credits
+## Personality
+- be creative, create traits, quirks, habits, likes, dislikes etc
+---
+---
+# 10 Group Resource
+![[Group resource]]
 

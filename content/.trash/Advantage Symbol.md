@@ -1,0 +1,9 @@
+![[Advantage.png]]
+- Positive consequence or side effect 
+- regardless of success
+	- Something good comes out of failure
+	- does not effect success.
+- ie. slicing computer faster than thought, recovering from strain in stressful situation
+- Cancelled by Threat
+- can spend advantage to apply 1 or more special side effects:
+	- trigger a critical hit, activate weapon special quality, recover strain, perform additional maneuvers

@@ -1,0 +1,4 @@
+- decided by size, shape, control system, mass and awkwardness
+- baseline handling is 0
+- agile ships add BOOST to piloting for positive values
+- slow ships add SETBACK to piloting for negative

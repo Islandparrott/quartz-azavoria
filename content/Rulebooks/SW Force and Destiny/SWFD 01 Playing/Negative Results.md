@@ -1,0 +1,6 @@
+#### [[Failure Symbol]]
+![[Failure Symbol]]
+#### [[Threat Symbol]]
+![[Threat Symbol]]
+#### [[Despair Symbol]]
+![[Despair Symbol]]

@@ -1,0 +1,6 @@
+- use MELEE skill
+- add BRAWN to DAM
+- akin to INFERIOR weapons, +1 auto THREAT
+- DAM based on size/weight
+- 1 DESPAIR or 2 THREAT breaks weapon, becomes useless
+- large weapons require 2 hands for Silhouette 1 or lesser

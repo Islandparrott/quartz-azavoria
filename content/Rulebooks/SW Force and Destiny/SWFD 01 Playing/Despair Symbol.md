@@ -1,3 +1,5 @@
+
+![[despair.png]]
 - significant bane
 - has 2 effects:
 	- counts as a failure

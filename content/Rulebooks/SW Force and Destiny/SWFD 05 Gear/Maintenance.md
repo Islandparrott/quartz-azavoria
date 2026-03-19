@@ -13,6 +13,5 @@
 | Minor    | [[Easy 1d8]]  | +1 setback(d6)     | .25 * price  |
 | Moderate | 2              | +1 difficulty (d8) | .5 * price   |
 | Major    | 3              | Unusable           | 1.00 * price |
-## Ammo
-- not tracked unless having specific quality
-- can run out when rolling a despair
+## [[Ammo]]
+![[Ammo]]

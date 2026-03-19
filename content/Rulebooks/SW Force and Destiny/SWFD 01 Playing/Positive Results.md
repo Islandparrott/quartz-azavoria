@@ -1,0 +1,6 @@
+### [[Success Symbol]]
+![[Success Symbol]]
+### [[Advantage Symbol]]
+![[Advantage Symbol]]
+### [[Triumph Symbol]]
+![[Triumph Symbol]]

@@ -1,0 +1,8 @@
+- Mentor is person with knowledge of force
+- doesnt travel with group
+- could be alive/dead
+- can contact to give advice / training
+- if dead, may appear in dreams/visions
+- only facilitates groups adventures, not dominate sessions/control actions
+- when PC purchases basic [[force power]], -5XP cost
+	- doesnt apply to upgrades

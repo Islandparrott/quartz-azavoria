@@ -1,0 +1,4 @@
+- Hovering counts as moving on the ground, 
+	- but ignores terrain features as long as they can stay above it
+- Flying use aerodynamics. 
+	- must use 1 maneuver to move

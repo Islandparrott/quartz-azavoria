@@ -1,4 +1,8 @@
 White d12
-- used by force sensitive characters.
+- used by [[Force sensitive]] characters.
 - generates  [[Force Resources]]
-- has [[Light Force Point]] and [[Dark Force Point]]
+- white circles: [[Light Side]]
+- Black circles: [[Dark Side]]
+- doesnt generate [[Success Symbol]] or [[Failure Symbol]]
+- light & dark dont cancel out
+- each generates [[force point]] for force characters

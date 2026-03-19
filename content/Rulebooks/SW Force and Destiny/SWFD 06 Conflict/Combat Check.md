@@ -1,0 +1,14 @@
+1. declare targets
+2. assemble pool
+3. pool results, deal damage
+4. resolve Advantage & threat
+5. resolve triumph & despair
+6. reduce damage, apply wound, apply injury
+
+| [[Range]]   | Difficulty(d8) |
+| ----------- | -------------- |
+| [[Engaged]] | 1              |
+| [[Short]]   | 1 EZ           |
+| [[Medium]]  | 2 AVG          |
+| [[long]]    | 3 Hard         |
+| [[Extreme]] | 4 Daunting     |

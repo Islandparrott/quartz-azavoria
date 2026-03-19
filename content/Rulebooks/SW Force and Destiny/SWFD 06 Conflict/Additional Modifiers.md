@@ -30,26 +30,9 @@
 	- If both hit, may spend 1 ADVANTAGE or 1 TRIUMPH to activate qualities
 	- Each hit deals damage as normal
 ## [[Unarmed]]
----
-- BRAWL check
-- base damage of BRAWN
-- CRIT: 5
-- Disorient 1, Knockdown
-- attacker can choose to damage STRAIN instead of WOUND
-	- still reduced by SOAK
-### [[Grappling]]
-- Focus on narrative, no specific rules for grappling
-- use UNARMED check to see if they succeed
-## [[Improvised Weapons]]
----
-- use MELEE skill
-- add BRAWN to DAM
-- akin to INFERIOR weapons, +1 auto THREAT
-- DAM based on size/weight
-- 1 DESPAIR or 2 THREAT breaks weapon, becomes useless
-- large weapons require 2 hands for Silhouette 1 or lesser
+![[Unarmed]]
+## [[Improvised Weapon]]
+![[Improvised Weapon]]
 
-## [[Silhouettes]]
----
-- if target is 2 SILHOUETTEs larger than attacker, -1 DIFFICULTY to attack
-- if target is 2 SILHOUETTEs smaller, +1 DIFFICULTY
+## [[Silhouette]]
+![[Silhouette]]

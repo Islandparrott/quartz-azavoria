@@ -49,7 +49,7 @@
 - after encounter, SIMPLE DISCIPLINE or COOL check
 	- each success = recover 1 STRAIN
  - 1 nights rest removes all strain.
-## Recovering [[Critical Injuries]]
+## Recovering [[Critical Injury]]
 ---
 - should be treated quickly
 - after effects expire, injury persists

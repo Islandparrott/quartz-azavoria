@@ -1,0 +1,2 @@
+- if target is 2 SILHOUETTEs larger than attacker, -1 DIFFICULTY to attack
+- if target is 2 SILHOUETTEs smaller, +1 DIFFICULTY
